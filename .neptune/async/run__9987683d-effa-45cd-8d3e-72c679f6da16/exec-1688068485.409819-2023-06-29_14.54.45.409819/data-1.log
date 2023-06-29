@@ -1,0 +1,15 @@
+{"obj": {"type": "AssignString", "path": ["sys", "name"], "value": "Untitled"}, "version": 1}
+{"obj": {"type": "AssignString", "path": ["sys", "description"], "value": ""}, "version": 2}
+{"obj": {"type": "AssignString", "path": ["monitoring", "c91e8354", "hostname"], "value": "enterprise"}, "version": 3}
+{"obj": {"type": "AssignString", "path": ["sys", "hostname"], "value": "enterprise"}, "version": 4}
+{"obj": {"type": "AssignString", "path": ["monitoring", "c91e8354", "pid"], "value": "58180"}, "version": 5}
+{"obj": {"type": "AssignString", "path": ["monitoring", "c91e8354", "tid"], "value": "140526534203200"}, "version": 6}
+{"obj": {"type": "AssignBool", "path": ["sys", "failed"], "value": false}, "version": 7}
+{"obj": {"type": "AssignString", "path": ["parameters", "model_name"], "value": "densenet"}, "version": 8}
+{"obj": {"type": "AssignInt", "path": ["parameters", "num_classes"], "value": 2}, "version": 9}
+{"obj": {"type": "AssignInt", "path": ["parameters", "batch_size"], "value": 8}, "version": 10}
+{"obj": {"type": "AssignInt", "path": ["parameters", "num_epochs"], "value": 30}, "version": 11}
+{"obj": {"type": "AssignString", "path": ["parameters", "model_name"], "value": "densenet"}, "version": 12}
+{"obj": {"type": "AssignInt", "path": ["parameters", "num_classes"], "value": 2}, "version": 13}
+{"obj": {"type": "AssignInt", "path": ["parameters", "batch_size"], "value": 8}, "version": 14}
+{"obj": {"type": "AssignInt", "path": ["parameters", "num_epochs"], "value": 30}, "version": 15}
