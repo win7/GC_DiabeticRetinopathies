@@ -2,6 +2,7 @@ name: kaggle_3.10
 channels:
   - pytorch
   - nvidia
+  - anaconda
   - conda-forge
   - defaults
 dependencies:
@@ -18,8 +19,8 @@ dependencies:
   - brotli-bin=1.0.9=h5eee18b_7
   - brotlipy=0.7.0=py310h7f8727e_1002
   - bzip2=1.0.8=h7b6447c_0
-  - ca-certificates=2023.05.30=h06a4308_0
-  - certifi=2023.5.7=py310h06a4308_0
+  - ca-certificates=2023.01.10=h06a4308_0
+  - certifi=2022.12.7=py310h06a4308_0
   - cffi=1.15.1=py310h5eee18b_3
   - charset-normalizer=2.0.4=pyhd3eb1b0_0
   - contourpy=1.0.5=py310hdb19cb5_0
@@ -58,6 +59,7 @@ dependencies:
   - jinja2=3.1.2=py310h06a4308_0
   - joblib=1.2.0=py310h06a4308_0
   - jpeg=9e=h5eee18b_1
+  - jupyter_client=7.4.8=py310h06a4308_0
   - jupyter_core=4.12.0=py310hff52083_0
   - kiwisolver=1.4.4=py310h6a678d5_0
   - krb5=1.20.1=h143b758_1
@@ -107,6 +109,7 @@ dependencies:
   - matplotlib=3.7.1=py310h06a4308_1
   - matplotlib-base=3.7.1=py310h1128e8f_1
   - matplotlib-inline=0.1.6=pyhd8ed1ab_0
+  - memory_profiler=0.58.0=pyhd3eb1b0_0
   - mkl=2023.1.0=h6d00ec8_46342
   - mkl-service=2.4.0=py310h5eee18b_1
   - mkl_fft=1.3.6=py310h1128e8f_1
@@ -225,8 +228,6 @@ dependencies:
     - nbconvert==7.6.0
     - nbformat==5.9.0
     - neptune==1.3.1
-    - neptune-client==1.3.1
-    - neptune-notebooks==0.9.3
     - notebook==6.5.4
     - notebook-shim==0.2.3
     - oauthlib==3.2.2
@@ -254,6 +255,7 @@ dependencies:
     - swagger-spec-validator==3.0.3
     - terminado==0.17.1
     - tinycss2==1.2.1
+    - torchsampler==0.1.2
     - tornado==6.3.2
     - uri-template==1.3.0
     - webcolors==1.13
