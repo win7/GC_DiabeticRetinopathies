@@ -1,5 +1,4 @@
 /dataset
 /source
-/output
 .neptune
 *.pt
